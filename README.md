@@ -19,6 +19,4 @@ make all
 - `notebooks/` análisis exploratorios/narrativa (usa funciones de `src/`)
 - `docs/` guía de reproducibilidad + figuras finales
 
-## Cómo citar
-
-Si usás este repositorio, por favor citá la tesis (ver `CITATION.cff`) y el release DOI (cuando publiques un Release enlazado a Zenodo).
+Si usás este repositorio, por favor citá la tesis.
