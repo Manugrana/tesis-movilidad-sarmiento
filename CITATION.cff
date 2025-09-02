@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Fronteras dentro de una ciudad: escuelas y tren Sarmiento (CABA) — Código y materiales"
+authors:
+  - family-names: "Graña"
+    given-names: "Manuel"
+keywords: [SUBE, movilidad urbana, Barrier Score, educación, CABA, Sarmiento]
+date-released: 2025-09-02
+version: "0.1.0"
+license: "MIT"
+message: "Si usás este repositorio, por favor citá esta entrada y la tesis asociada."

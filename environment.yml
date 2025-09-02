@@ -1,0 +1,20 @@
+name: tesis-sarmiento
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  - numpy
+  - pandas
+  - geopandas
+  - shapely
+  - pyproj
+  - rtree
+  - networkx
+  - osmnx
+  - matplotlib
+  - scikit-learn
+  - folium
+  - pip:
+      - pre-commit

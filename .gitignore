@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data & artifacts
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+logs/
+artifacts/
+
+# OS
+.DS_Store
+
+# Envs
+.env
+.venv
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
